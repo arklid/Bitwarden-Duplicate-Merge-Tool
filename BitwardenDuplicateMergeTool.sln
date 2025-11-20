@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitwardenDuplicateMergeTool", "BitwardenDuplicateMergeTool\BitwardenDuplicateMergeTool.csproj", "{D54583AC-2E16-B279-F9F9-F24C8D54454A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitwardenDuplicateMergeTool.Tests", "BitwardenDuplicateMergeTool.Tests\BitwardenDuplicateMergeTool.Tests.csproj", "{EC137EF3-5202-9655-A5C0-F09BED4A94AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D54583AC-2E16-B279-F9F9-F24C8D54454A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D54583AC-2E16-B279-F9F9-F24C8D54454A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D54583AC-2E16-B279-F9F9-F24C8D54454A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D54583AC-2E16-B279-F9F9-F24C8D54454A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC137EF3-5202-9655-A5C0-F09BED4A94AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC137EF3-5202-9655-A5C0-F09BED4A94AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC137EF3-5202-9655-A5C0-F09BED4A94AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC137EF3-5202-9655-A5C0-F09BED4A94AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA9BFA5E-67E0-4240-94FA-300E9E00AEAB}
+	EndGlobalSection
+EndGlobal
